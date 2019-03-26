@@ -9,7 +9,7 @@ public class Program {
 		for (int i = 0; i < 10; i++) {
 			
 			
-			System.out.println(i+ "raju");
+			System.out.println(i+ "raju is a king");
 			
 		}
 		
